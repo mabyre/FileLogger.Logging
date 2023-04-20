@@ -110,7 +110,7 @@ namespace FileLogger.Logging
         /// </summary>
         void BeginFile()
         {
-            Directory.CreateDirectory(Settings.Folder);
+            DirectoryInfo di =  Directory.CreateDirectory(Settings.Folder);
             PathFileName = Path.Combine(Settings.Folder, LogEntry.StaticHostName + "-" + DateTime.Now.ToString("yyyyMMdd-HHmm") + ".log");
 
             // Log Titles
