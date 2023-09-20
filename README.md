@@ -1,7 +1,8 @@
 # FileLogger.Logging
 
-Because of "Tripous" who wasn't not my cup of thea then to enhence little things but it should be a fork. 
-This is a submodule to provide a File Logging Provider to be used with .NET Microsoft.Extensions.Logging.
+This is a submodule to provide a File Logging Provider to be used with **.NET Microsoft.Extensions.Logging**.
+
+*Because the term of "Tripous" used in [reference](https://github.com/mabyre/FileLogger.Logging#reference) who wasn't not my cup of thea then to enhence little things but it should be a fork.*
 
 # Usage
 
