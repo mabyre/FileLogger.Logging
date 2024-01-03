@@ -4,6 +4,8 @@ This is a submodule to provide a File Logging Provider to be used with **.NET Mi
 
 *Because the term of "Tripous" used in [reference](#reference) who wasn't not my cup of thea then to enhence little things but it should be a fork.*
 
+[Samples](#samples)
+
 # Usage
 
 ## Get github submodule into your project
@@ -79,8 +81,13 @@ git submodule add https://github.com/mabyre/FileLogger.Logging.git
 
 # Samples
 
-Project using this module in a WPF Application:
+Project using this module in a **WPF** Application:
+
 https://github.com/mabyre/WpfAppCore1
+
+This module used in **Blazor** Server Application
+
+https://github.com/mabyre/MyBlazorServerApp
 
 # Reference
 - [GitHub - tbebekis - AspNetCore-CustomLoggingProvider](https://github.com/tbebekis/AspNetCore-CustomLoggingProvider)
