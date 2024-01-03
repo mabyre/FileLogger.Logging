@@ -2,7 +2,7 @@
 
 This is a submodule to provide a File Logging Provider to be used with **.NET Microsoft.Extensions.Logging**.
 
-*Because the term of "Tripous" used in [reference](https://github.com/mabyre/FileLogger.Logging#reference) who wasn't not my cup of thea then to enhence little things but it should be a fork.*
+*Because the term of "Tripous" used in [reference](#reference) who wasn't not my cup of thea then to enhence little things but it should be a fork.*
 
 # Usage
 
@@ -76,6 +76,11 @@ git submodule add https://github.com/mabyre/FileLogger.Logging.git
       "Folder": ".\\Logs"
     },
 ```
+
+# Samples
+
+Project using this module in a WPF Application:
+https://github.com/mabyre/WpfAppCore1
 
 # Reference
 - [GitHub - tbebekis - AspNetCore-CustomLoggingProvider](https://github.com/tbebekis/AspNetCore-CustomLoggingProvider)
